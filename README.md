@@ -32,7 +32,7 @@
 | 2025.01.24   | https://totalbattle.com/en/?present=ref3_out_fZI6        |
 
 # External link
-[Total Battle Troop Calculator](https://apps.tbfba.wiki) 
+[Total Battle Troop Calculator](https://apps.tbfba.wiki)  
 [Youtube Posts](https://www.youtube.com/@TotalBattleTacticalStrategy/community)
 
 # Reference
