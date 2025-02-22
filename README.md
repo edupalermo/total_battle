@@ -33,6 +33,7 @@
 
 # External link
 [Total Battle Troop Calculator](https://apps.tbfba.wiki)
+[Youtube Posts](https://www.youtube.com/@TotalBattleTacticalStrategy/community)
 
 # Reference
 [Original Page](https://tbgift.pages.dev)
