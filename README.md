@@ -25,6 +25,7 @@
 
 | Release Date | Link                                                      |
 |--------------|-----------------------------------------------------------|
+| 2025.05.07   | https://totalbattle.com/en/?present=ref1_may_25_t3TS      |
 | 2025.04.23   | https://totalbattle.com/en/?present=ref4_april_25_BnKQ    |
 | 2025.04.11   | https://totalbattle.com/en/?present=ref2_april_25_z1Ox    |
 | 2025.03.28   | https://totalbattle.com/en/?present=ref5_march_25_1tjT    |
