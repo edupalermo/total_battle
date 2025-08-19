@@ -25,6 +25,7 @@
 
 | Release Date | Link                                                      |
 |--------------|-----------------------------------------------------------|
+| 2025.08.19   | https://totalbattle.com/en/?present=ref2_august_25_gHN3   |
 | 2025.07.30   | https://totalbattle.com/en/?present=ref5_july_25_8qtQ     |
 | 2025.06.27   | https://totalbattle.com/en/?present=ref4_june_25_u60C     |
 | 2025.05.31   | https://totalbattle.com/en/?present=ref4_may_25_s2gG      |
@@ -44,7 +45,7 @@
 
 # External link
 [Total Battle Troop Calculator](https://apps.tbfba.wiki)  
-[Youtube Posts](https://www.youtube.com/@TotalBattleTacticalStrategy/community)
+[Youtube Posts](https://www.youtube.com/@TotalBattleTacticalStrategy/posts)
 
 # Reference
 [Original Page](https://tbgift.pages.dev)
