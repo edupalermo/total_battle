@@ -22,7 +22,9 @@
 | Ramses Roulette | https://totalbattle.com/en/?present=ramsesroulette100 |
 
 # Recurrent
+
 | Purpose | Link |
+| --------|------|
 | Relocation | https://totalbattle.com/en/?present=rm65649016820614116771 |
 
 # One time bonuses
