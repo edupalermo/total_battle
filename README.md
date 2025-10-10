@@ -31,6 +31,7 @@
 
 | Release Date | Link                                                      |
 |--------------|-----------------------------------------------------------|
+| 2025.10.10   | https://totalbattle.com/en/?present=ref1_october_25_6nhH |
 | 2025.10.03   | https://totalbattle.com/en/?present=ref4_spareoctober_25_FK5y |
 | 2025.09.29   | https://totalbattle.com/en/?present=ref4_september_25_AE0S |
 | 2025.09.25   | https://totalbattle.com/en/?present=ref3_september_25_Wm0e |
